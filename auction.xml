@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<items>
+  <item item_number="item_65336fd599d69">
+    <seller_id>customer_6533634cd3503</seller_id>
+    <start_date>2023-10-21</start_date>
+    <start_time>17:29:41</start_time>
+    <status>in_progress</status>
+    <current_bidder_id/>
+    <item_name>iPhone</item_name>
+    <category>Phone</category>
+    <description>iPhone 13 Pro</description>
+    <start_price>1000</start_price>
+    <reserve_price>1500</reserve_price>
+    <buy_it_now>2000</buy_it_now>
+    <current_bid_price>1000</current_bid_price>
+    <duration>20 days 12 hours 12 minutes</duration>
+  </item>
+  <item item_number="item_65336fff6ea95">
+    <seller_id>customer_6533634cd3503</seller_id>
+    <start_date>2023-10-21</start_date>
+    <start_time>17:30:23</start_time>
+    <status>in_progress</status>
+    <current_bidder_id/>
+    <item_name>Ford</item_name>
+    <category>Car</category>
+    <description>Ford Ranger Raptor</description>
+    <start_price>30000</start_price>
+    <reserve_price>50000</reserve_price>
+    <buy_it_now>72000</buy_it_now>
+    <current_bid_price>30000</current_bid_price>
+    <duration>20 days 12 hours 12 minutes</duration>
+  </item>
+  <item item_number="item_653370130b652">
+    <seller_id>customer_6533634cd3503</seller_id>
+    <start_date>2023-10-21</start_date>
+    <start_time>17:30:43</start_time>
+    <status>in_progress</status>
+    <current_bidder_id/>
+    <item_name>T-shirt</item_name>
+    <category>Car</category>
+    <description/>
+    <start_price>10</start_price>
+    <reserve_price>20</reserve_price>
+    <buy_it_now>25</buy_it_now>
+    <current_bid_price>10</current_bid_price>
+    <duration>20 days 12 hours 12 minutes</duration>
+  </item>
+  <item item_number="item_6533702b79138">
+    <seller_id>customer_6533634cd3503</seller_id>
+    <start_date>2023-10-21</start_date>
+    <start_time>17:31:07</start_time>
+    <status>in_progress</status>
+    <current_bidder_id/>
+    <item_name>Nike</item_name>
+    <category>Car</category>
+    <description>Nike Air Jordan 1 Low</description>
+    <start_price>200</start_price>
+    <reserve_price>250</reserve_price>
+    <buy_it_now>300</buy_it_now>
+    <current_bid_price>200</current_bid_price>
+    <duration>20 days 12 hours 12 minutes</duration>
+  </item>
+  <item item_number="item_6533704274e32">
+    <seller_id>customer_6533634cd3503</seller_id>
+    <start_date>2023-10-21</start_date>
+    <start_time>17:31:30</start_time>
+    <status>in_progress</status>
+    <current_bidder_id/>
+    <item_name>Rolex</item_name>
+    <category>Car</category>
+    <description>Rolex Datejust</description>
+    <start_price>10000</start_price>
+    <reserve_price>12000</reserve_price>
+    <buy_it_now>16000</buy_it_now>
+    <current_bid_price>10000</current_bid_price>
+    <duration>20 days 12 hours 12 minutes</duration>
+  </item>
+  <item item_number="item_653497d597f52">
+    <seller_id>customer_6533634cd3503</seller_id>
+    <start_date>2023-10-22</start_date>
+    <start_time>14:32:37</start_time>
+    <status>in_progress</status>
+    <current_bidder_id/>
+    <item_name>Samsung</item_name>
+    <category>Phone</category>
+    <description>Samsung Galaxy</description>
+    <start_price>1000</start_price>
+    <reserve_price>1100</reserve_price>
+    <buy_it_now>1500</buy_it_now>
+    <current_bid_price>1000</current_bid_price>
+    <duration>20 days 12 hours 12 minutes</duration>
+  </item>
+</items>

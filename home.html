@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home Page</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <style>
+      h1 {
+        text-align: center;
+        padding: 10px;
+        background-color: #3498db;
+        color: #fff;
+      }
+
+      .topnav {
+        display: flex;
+        justify-content: center;
+        background-color: #333;
+        padding: 10px 0;
+      }
+
+      .topnav a {
+        padding: 10px 20px;
+        margin: 0 10px;
+        border: 2px solid #3498db;
+        color: #3498db;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s, color 0.3s;
+      }
+
+      .topnav a.active,
+      .topnav a:hover {
+        background-color: #3498db;
+        color: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>ShopOnline</h1>
+      <div class="topnav">
+        <a class="active" href="home.html">Home</a>
+        <a href="listing.php">Listing</a>
+        <a href="bidding.php">Bidding</a>
+        <a href="maintenance.html ">Maintenance</a>
+        <a href="logout.php">Logout</a>
+      </div>
+      <hr />
+      <div id="content" class="text-center">
+        <!-- Content will be loaded dynamically here -->
+      </div>
+    </div>
+    <script src="home.js"></script>
+  </body>
+</html>
